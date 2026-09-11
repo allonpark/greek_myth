@@ -1,0 +1,13 @@
+window.EPISODES=[
+{n:1,ko:'태초에 신은 없었다 — 카오스에서 시작된 그리스 세계',en:'Before the Gods — The Greek World Begins with Chaos',descKo:'제우스보다 오래된 세계. 카오스, 가이아, 타르타로스와 에로스에서 우주의 첫 장면을 시작한다.',descEn:'A world older than Zeus: Chaos, Gaia, Tartarus and Eros open the first scene of the Greek cosmos.'},
+{n:2,ko:'대지가 하늘을 낳았다 — 가이아와 우라노스',en:'Earth Gave Birth to Sky — Gaia and Uranus',descKo:'대지와 하늘이 결합하고, 최초의 신족 갈등이 시작된다.',descEn:'Earth and Sky unite, and the first divine family conflict begins.'},
+{n:3,ko:'아들이 아버지를 베었다 — 크로노스의 반란',en:'The Son Struck the Father — The Revolt of Cronus',descKo:'우라노스의 지배가 끝나고 티탄의 시대가 열린다.',descEn:'The reign of Uranus ends and the age of the Titans begins.'},
+{n:4,ko:'자식을 삼키는 왕 — 크로노스와 레아',en:'The King Who Swallowed His Children — Cronus and Rhea',descKo:'예언을 피하려는 왕은 자신의 아이들을 삼키기 시작한다.',descEn:'Trying to escape prophecy, a king begins swallowing his own children.'},
+{n:5,ko:'숨겨진 아이 제우스 — 새로운 전쟁의 시작',en:'The Hidden Child Zeus — A New War Begins',descKo:'크레타에서 살아남은 막내아이가 오래된 질서를 뒤집을 준비를 한다.',descEn:'The youngest child survives in Crete and prepares to overturn the old order.'},
+{n:6,ko:'신들의 전쟁 — 티타노마키아와 올림포스의 탄생',en:'War of the Gods — Titanomachy and the Rise of Olympus',descKo:'두 세대의 신들이 우주의 통치권을 놓고 충돌한다.',descEn:'Two divine generations collide over the sovereignty of the cosmos.'},
+{n:7,ko:'제우스에게도 마지막 적이 있었다 — 튀폰',en:'Zeus Had One Last Enemy — Typhon',descKo:'새로운 신들의 왕 앞에 우주적 괴물 튀폰이 나타난다.',descEn:'A cosmic monster rises against the newly established king of the gods.'},
+{n:8,ko:'신과 인간 사이 — 프로메테우스와 불',en:'Between Gods and Humans — Prometheus and Fire',descKo:'제물, 불, 지식과 벌을 통해 인간과 신의 경계가 그어진다.',descEn:'Sacrifice, fire, knowledge and punishment define the boundary between mortals and gods.'},
+{n:9,ko:'판도라 — 선물처럼 도착한 재앙',en:'Pandora — Disaster Arrives as a Gift',descKo:'왜 고통이 인간 세계에 들어왔는가. 헤시오도스가 남긴 불편한 대답을 읽는다.',descEn:'Why did suffering enter the human world? Hesiod offers an unsettling answer.'},
+{n:10,ko:'헤라클레스 — 신에게 미움받은 가장 강한 인간',en:'Heracles — The Strongest Mortal Hated by a Goddess',descKo:'괴물들의 시대를 끝내는 영웅과 열두 과업, 그리고 역설적인 신격화.',descEn:'The hero who helps end the age of monsters: twelve labors and a paradoxical apotheosis.'},
+{n:11,ko:'페가수스를 탄 남자는 왜 하늘에서 떨어졌을까',en:'Why Did the Rider of Pegasus Fall from the Sky?',descKo:'벨레로폰과 키마이라, 그리고 인간이 신의 영역을 넘으려 할 때 생기는 일.',descEn:'Bellerophon, the Chimera, and what happens when a mortal reaches for the realm of gods.'}
+];
