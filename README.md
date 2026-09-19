@@ -27,66 +27,31 @@ Mythos Atlas는 이 연결을 되살리는 것을 첫 번째 목표로 합니다
 
 여기에서 특히 중요한 원칙은 **‘더 오래된 현존 문헌’이 곧 ‘그 이야기가 그 문화에서 처음 만들어졌다’는 뜻은 아니라는 것**입니다. 예를 들어 메소포타미아 홍수 문헌이 현존 그리스 홍수 서술보다 오래되었다고 해서 그것만으로 그리스가 해당 이야기를 직접 복사했다고 결론내릴 수는 없습니다. 문헌의 보존 시점과 전승의 실제 기원은 별개의 문제입니다.
 
-## 이야기의 큰 흐름
+## 이야기의 큰 흐름 — Revised 43-Episode Spine
 
-전체 연재는 대략 다음과 같은 장기 서사로 진행됩니다. 실제 편수는 각 주제를 충분히 설명하기 위해 더 세분될 수 있습니다.
+현재 연재는 **총 43편에서 완결**되도록 고정했습니다. 1–35편은 이미 공개된 번호와 URL을 유지하면서 continuity revision을 진행했고, 36–43편은 다음과 같이 마무리됩니다.
 
-### I. 세계와 신들의 탄생
-1. Chaos — 세계 이전에는 무엇이 있었나
-2. Gaia, Tartarus, Eros — 최초의 존재들
-3. Gaia & Uranus — 대지와 하늘
-4. Titans, Cyclopes, Hecatoncheires
-5. Cronus overthrows Uranus
-6. Cronus' age and the Golden Race
-7. Birth of Zeus
-8. Titanomachy
-9. Zeus, Poseidon and Hades divide the cosmos
+### I–III. 세계·신·영웅의 시대 — 1–24편
+카오스와 신들의 세대교체에서 시작해 프로메테우스·판도라·홍수, 페르세우스·헤라클레스·벨레로폰, 테베 왕가, 아르고호, 테세우스와 아탈란테까지 이어집니다. 이 구간에서 심은 핵심 장기 thread는 **세대교체와 계승 폭력, 인간/신 경계, 선물과 환대, 귀환, 매장, 예언 회피, 신화와 고고학의 구분**입니다.
 
-### II. 신과 인간의 경계
-10. Humans — 인간은 언제, 왜 등장했는가
-11. Prometheus and sacrifice
-12. Theft of fire
-13. Pandora
-14. Five Ages of Humanity
-15. Lycaon and human corruption
-16. Deucalion's Flood — Noah, Atrahasis, Gilgamesh와의 비교
-17. Humanity after the Flood
+### IV. 트로이 전쟁의 원인과 《일리아스》 — 25–35편
+테티스의 결혼식과 황금사과, 헬레네의 상충 전승, 이피게네이아, 프로테실라오스와 트로일로스를 거쳐 《일리아스》의 분노·테르시테스·깨진 휴전·디오메데스·글라우코스·헥토르와 안드로마케까지 진행합니다.
 
-### III. 영웅의 시대
-18. Perseus and Medusa
-19. Heracles and the Twelve Labors
-20. Bellerophon, Pegasus and the Chimera
-21. Oedipus and the Sphinx / Thebes
-22. Jason and the Argonauts
-23. Theseus, Minos and the Minotaur
-24. The Theban Wars and the human-reduction motif
+### V. 《일리아스》의 결말과 트로이의 함락 — 36–40편
+36. **아킬레우스에게 명예의 값은 얼마였을까? — 《일리아스》 9권의 사절단과 두 운명**
+37. **아킬레우스의 갑옷을 입은 사람 — 파트로클로스와 불타는 배**
+38. **돌아온 아킬레우스 — 새 방패, 스카만드로스, 그리고 헥토르의 죽음**
+39. **아들을 죽인 사람의 손에 입 맞춘 아버지 — 프리아모스와 헥토르의 장례**
+40. **《일리아스》가 끝난 뒤 트로이는 어떻게 무너졌을까? — 아킬레우스의 죽음, 목마, 함락의 여러 전승**
 
-### IV. 트로이 전쟁
-25. Thetis' wedding, the golden apple and Paris
-26. Helen, the Greek coalition and the *Cypria*
-27. The first nine years of the Trojan War
-28. The *Iliad* — Achilles' anger
-29. Achilles' death, the Trojan Horse and the Sack of Troy
+### VI. 전쟁 뒤의 세계와 로마, 그리고 증거의 경계 — 41–43편
+41. **전쟁은 끝났지만 집은 남아 있었을까? — 노스토이와 《오디세이》**
+42. **트로이의 생존자는 어떻게 로마의 조상이 되었을까? — 아이네이아스, 디도, 지하세계와 라티움**
+43. **신화는 어디에서 끝나고 역사는 어디에서 시작될까? — 트로이·Wilusa·미케네 붕괴·로마 건국 기억**
 
-### V. 전쟁 이후 — 귀환과 오디세이
-30. The *Nostoi* and the Greek returns
-31. The *Odyssey*
-32. The *Telegony* and the death of Odysseus
-33. Trojan survivors — Andromache, Helenus, Neoptolemus and others
+43편은 “신화는 거짓, 역사는 사실”이라는 단순한 판결로 끝내지 않습니다. 히사를를륵의 층위, Wilusa/Ahhiyawa 문헌, 미케네 궁정 세계의 붕괴, 구전전승, 로마의 건국기억을 함께 놓고 **어디까지가 직접 증거이고 어디부터가 전승·재구성인지** 구분하는 것으로 연재 전체를 닫습니다.
 
-### VI. 트로이에서 로마로
-34. Aeneas escapes Troy
-35. Aeneas' Mediterranean wanderings
-36. Dido and Carthage
-37. Aeneas in the Underworld
-38. War in Latium
-39. Alba Longa and the post-Aeneas dynasties
-40. Romulus and Remus
-41. Foundation of Rome
-42. Early Roman foundation legends and the Roman kings
-43. Where myth, legend and recoverable history begin to separate
-
-연재 후반에는 신화 자체만이 아니라 히사를리크/Troy 유적, 후기 청동기 시대 붕괴, 미케네 세계의 해체, 히타이트·이집트 자료, 이른 철기시대와 같은 역사·고고학 자료를 함께 보면서 **‘신화 → 전설 → 역사’의 경계가 어디에서 흐려지고 어디에서 다시 선명해지는지** 살펴볼 예정입니다.
+세부 복선·회수 계획은 `SERIES_CONTINUITY_MAP.md`, 서사 QA 기준은 `EDITORIAL_NARRATIVE_QA.md`에서 관리합니다.
 
 ## 현재 연재와 사이트 구성
 
